@@ -14,6 +14,7 @@ Utilizando **Modelos de Linguagem (LLMs)** através da API do **Google Gemini**,
 ### 👨‍💻 Autor
 * **Felipe Kitamoto Amaral**
 * *Departamento de Computação e Eletrônica (DCE) – UFES*
+* [Slides e Vídeo Apresentativo](https://www.canva.com/design/DAGvsRqPKCI/BNSVQeNolK4QEZbL6gdsFA/edit?utm_content=DAGvsRqPKCI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
